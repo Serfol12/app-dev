@@ -18,6 +18,7 @@ My first repository
 3. Live Action
 
 The `One Piece` is Real!
+
 One piece is one of my favorite series is because...
 
 ---
@@ -27,5 +28,6 @@ One piece is one of my favorite series is because...
 ---
 
 ...it also has a plethora of great characters and great world building.
+
 Read [One Piece](https://www.viz.com/shonenjump/chapters/one-piece)
 
